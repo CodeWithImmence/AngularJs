@@ -21,6 +21,7 @@ export class RoomsComponent implements OnInit {
 
   roomsList: RoomsList[] = [
     {
+      
       roomNumber: 101,
       roomType: 'DeluxeRoom',
       amenities: 'Air Conditioner, Free Wi-fie,TV, Bathroom, Kitchen',
