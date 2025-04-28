@@ -12,4 +12,5 @@ export interface RoomsList {
   checkinTime: Date;
   checkoutTine: Date;
   roomNumber: number;
+  rating: number;
 }
